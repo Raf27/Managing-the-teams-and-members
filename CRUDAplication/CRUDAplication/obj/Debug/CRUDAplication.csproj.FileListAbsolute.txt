@@ -1,0 +1,14 @@
+C:\Users\Rasca\source\repos\CRUDAplication\CRUDAplication\obj\Debug\CRUDAplication.csproj.AssemblyReference.cache
+C:\Users\Rasca\source\repos\CRUDAplication\CRUDAplication\obj\Debug\CRUDAplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rasca\source\repos\CRUDAplication\CRUDAplication\obj\Debug\CRUDAplication.AddTeam.resources
+C:\Users\Rasca\source\repos\CRUDAplication\CRUDAplication\obj\Debug\CRUDAplication.Properties.Resources.resources
+C:\Users\Rasca\source\repos\CRUDAplication\CRUDAplication\obj\Debug\CRUDAplication.csproj.GenerateResource.cache
+C:\Users\Rasca\source\repos\CRUDAplication\CRUDAplication\obj\Debug\CRUDAplication.csproj.CoreCompileInputs.cache
+C:\Users\Rasca\source\repos\CRUDAplication\CRUDAplication\bin\Debug\CRUDAplication.exe.config
+C:\Users\Rasca\source\repos\CRUDAplication\CRUDAplication\bin\Debug\CRUDAplication.exe
+C:\Users\Rasca\source\repos\CRUDAplication\CRUDAplication\bin\Debug\CRUDAplication.pdb
+C:\Users\Rasca\source\repos\CRUDAplication\CRUDAplication\obj\Debug\CRUDAplication.exe
+C:\Users\Rasca\source\repos\CRUDAplication\CRUDAplication\obj\Debug\CRUDAplication.pdb
+C:\Users\Rasca\source\repos\CRUDAplication\CRUDAplication\obj\Debug\CRUDAplication.AddMember.resources
+C:\Users\Rasca\source\repos\CRUDAplication\CRUDAplication\obj\Debug\CRUDAplication.HomePageaTeam.resources
+C:\Users\Rasca\source\repos\CRUDAplication\CRUDAplication\obj\Debug\CRUDAplication.LOGIN.resources
